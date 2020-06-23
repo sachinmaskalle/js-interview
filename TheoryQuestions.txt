@@ -1,0 +1,26 @@
+1. getSum('a',1,2,4,'s','a')
+2. Second smallest,lowest number from Array
+3. Most frequent item in Array - [1,2,'T','a','T',3,'t',5,'t',5,'r'] // o/p: 4
+4. generator function return value ?
+5. Object.create/Object.assign/Array and Object destructuring 
+6.function findPairs(input){
+	//1(4)--->2 Pairs
+	//2(3)--->1 Pairs
+	//3(2)---->1 Pairs
+	//output--4
+	console.log(findPairs([1,2,1,2,3,1,1,2,3]));
+}
+7. Merge two arrays [output should be sorted after merge]
+8. Bubble/Quick sort implementation
+9. Rest vs Spread in ES6
+10. Promises and async await 
+11. Event loop and concurrency model in JS
+12. Express middleware functions
+13. Practical use of closures
+14. Function currying , pure functions
+15. Higher order methods in JS
+14. Thinking recursively (string manipulation something like palindrome)
+15. React~Redux - life cycle methods,context api,component communication, two-way binding, hooks,
+			HOC,ref,fragments,state vs stateless comps,optimization techniques,redux workflow etc
+1. CSS - Flexbox,Grids,positioning
+ 
